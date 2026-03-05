@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "Air Max Velocity",
+    "brand": "Nike",
+    "category": "Running",
+    "price": 120.00,
+    "currency": "USD",
+    "sizes": [7, 8, 9, 10, 11],
+    "colors": ["Black", "Neon Green"],
+    "inStock": true,
+    "image": "https://i.ibb.co.com/N6NhW9H/post.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Classic Street Wear",
+    "brand": "Adidas",
+    "category": "Casual",
+    "price": 85.50,
+    "currency": "USD",
+    "sizes": [6, 7, 8, 9],
+    "colors": ["White", "Navy Blue"],
+    "inStock": true,
+    "image": "https://i.ibb.co.com/N6NhW9H/post.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Mountain Hiker Pro",
+    "brand": "Timberland",
+    "category": "Hiking",
+    "price": 150.00,
+    "currency": "USD",
+    "sizes": [8, 9, 10, 11, 12],
+    "colors": ["Brown", "Dark Grey"],
+    "inStock": false,
+    "image": "https://i.ibb.co.com/N6NhW9H/post.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Cloud Runner 250",
+    "brand": "Asics",
+    "category": "Running",
+    "price": 110.00,
+    "currency": "USD",
+    "sizes": [7, 8, 9],
+    "colors": ["Blue", "Red"],
+    "inStock": true,
+    "image": "https://i.ibb.co.com/N6NhW9H/post.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Urban Stealth Sneakers",
+    "brand": "Puma",
+    "category": "Lifestyle",
+    "price": 95.00,
+    "currency": "USD",
+    "sizes": [7, 8, 9, 10],
+    "colors": ["All Black"],
+    "inStock": true,
+    "image": "https://i.ibb.co.com/N6NhW9H/post.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Court Legend High",
+    "brand": "Reebok",
+    "category": "Basketball",
+    "price": 130.00,
+    "currency": "USD",
+    "sizes": [9, 10, 11, 12],
+    "colors": ["White", "Red", "Blue"],
+    "inStock": true,
+    "image": "https://i.ibb.co.com/N6NhW9H/post.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Summer Breeze Loafers",
+    "brand": "Clarks",
+    "category": "Formal/Casual",
+    "price": 75.00,
+    "currency": "USD",
+    "sizes": [6, 7, 8, 9, 10],
+    "colors": ["Beige", "Tan"],
+    "inStock": true,
+    "image": "https://i.ibb.co.com/N6NhW9H/post.jpg"
+  },
+  {
+    "id": 8,
+    "name": "GripMaster Golf Shoes",
+    "brand": "Under Armour",
+    "category": "Sport",
+    "price": 140.00,
+    "currency": "USD",
+    "sizes": [8, 9, 10, 11],
+    "colors": ["White", "Grey"],
+    "inStock": true,
+    "image": "https://i.ibb.co.com/N6NhW9H/post.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Skate Pro X",
+    "brand": "Vans",
+    "category": "Skateboarding",
+    "price": 65.00,
+    "currency": "USD",
+    "sizes": [5, 6, 7, 8, 9, 10],
+    "colors": ["Checkerboard", "Black"],
+    "inStock": true,
+    "image": "https://i.ibb.co.com/N6NhW9H/post.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Ultra Flex Trainer",
+    "brand": "Skechers",
+    "category": "Training",
+    "price": 80.00,
+    "currency": "USD",
+    "sizes": [7, 8, 9, 10],
+    "colors": ["Charcoal", "Blue"],
+    "inStock": false,
+    "image": "https://i.ibb.co.com/N6NhW9H/post.jpg"
+  }
+]

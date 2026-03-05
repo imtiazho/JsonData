@@ -9,7 +9,7 @@
     "sizes": [7, 8, 9, 10, 11],
     "colors": ["Black", "Neon Green"],
     "inStock": true,
-    "image": "https://example.com/shoes/air-max.jpg"
+    "image": "https://i.ibb.co.com/N6NhW9H/post.jpg"
   },
   {
     "id": 2,
@@ -21,7 +21,7 @@
     "sizes": [6, 7, 8, 9],
     "colors": ["White", "Navy Blue"],
     "inStock": true,
-    "image": "https://example.com/shoes/classic-street.jpg"
+    "image": "https://i.ibb.co.com/N6NhW9H/post.jpg"
   },
   {
     "id": 3,
@@ -33,7 +33,7 @@
     "sizes": [8, 9, 10, 11, 12],
     "colors": ["Brown", "Dark Grey"],
     "inStock": false,
-    "image": "https://example.com/shoes/mountain-hiker.jpg"
+    "image": "https://i.ibb.co.com/N6NhW9H/post.jpg"
   },
   {
     "id": 4,
@@ -45,7 +45,7 @@
     "sizes": [7, 8, 9],
     "colors": ["Blue", "Red"],
     "inStock": true,
-    "image": "https://example.com/shoes/cloud-runner.jpg"
+    "image": "https://i.ibb.co.com/N6NhW9H/post.jpg"
   },
   {
     "id": 5,
@@ -57,7 +57,7 @@
     "sizes": [7, 8, 9, 10],
     "colors": ["All Black"],
     "inStock": true,
-    "image": "https://example.com/shoes/urban-stealth.jpg"
+    "image": "https://i.ibb.co.com/N6NhW9H/post.jpg"
   },
   {
     "id": 6,
@@ -69,7 +69,7 @@
     "sizes": [9, 10, 11, 12],
     "colors": ["White", "Red", "Blue"],
     "inStock": true,
-    "image": "https://example.com/shoes/court-legend.jpg"
+    "image": "https://i.ibb.co.com/N6NhW9H/post.jpg"
   },
   {
     "id": 7,
@@ -81,7 +81,7 @@
     "sizes": [6, 7, 8, 9, 10],
     "colors": ["Beige", "Tan"],
     "inStock": true,
-    "image": "https://example.com/shoes/summer-loafers.jpg"
+    "image": "https://i.ibb.co.com/N6NhW9H/post.jpg"
   },
   {
     "id": 8,
@@ -93,7 +93,7 @@
     "sizes": [8, 9, 10, 11],
     "colors": ["White", "Grey"],
     "inStock": true,
-    "image": "https://example.com/shoes/gripmaster.jpg"
+    "image": "https://i.ibb.co.com/N6NhW9H/post.jpg"
   },
   {
     "id": 9,
@@ -105,7 +105,7 @@
     "sizes": [5, 6, 7, 8, 9, 10],
     "colors": ["Checkerboard", "Black"],
     "inStock": true,
-    "image": "https://example.com/shoes/skate-pro.jpg"
+    "image": "https://i.ibb.co.com/N6NhW9H/post.jpg"
   },
   {
     "id": 10,
@@ -117,6 +117,6 @@
     "sizes": [7, 8, 9, 10],
     "colors": ["Charcoal", "Blue"],
     "inStock": false,
-    "image": "https://example.com/shoes/ultra-flex.jpg"
+    "image": "https://i.ibb.co.com/N6NhW9H/post.jpg"
   }
 ]

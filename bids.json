@@ -1,0 +1,102 @@
+[
+  {
+    "_id": "65f1a2b3c4d5e6f7a8b90123",
+    "product": "65f1a2b3c4d5e6f7a8b90001",
+    "buyer_image": "https://api.dicebear.com/7.x/avataaars/svg?seed=Felix",
+    "buyer_name": "Alex Rivera",
+    "buyer_contact": "+1-555-0101",
+    "buyer_email": "alex.rivera@example.com",
+    "bid_price": 450.00,
+    "status": "pending"
+  },
+  {
+    "_id": "65f1a2b3c4d5e6f7a8b90124",
+    "product": "65f1a2b3c4d5e6f7a8b90001",
+    "buyer_image": "https://api.dicebear.com/7.x/avataaars/svg?seed=Jordan",
+    "buyer_name": "Jordan Smith",
+    "buyer_contact": "+1-555-0102",
+    "buyer_email": "j.smith@provider.net",
+    "bid_price": 475.50,
+    "status": "confirmed"
+  },
+  {
+    "_id": "65f1a2b3c4d5e6f7a8b90125",
+    "product": "65f1a2b3c4d5e6f7a8b90002",
+    "buyer_image": "https://api.dicebear.com/7.x/avataaars/svg?seed=Sarah",
+    "buyer_name": "Sarah Chen",
+    "buyer_contact": "+1-555-0103",
+    "buyer_email": "schen_dev@techmail.com",
+    "bid_price": 1200.00,
+    "status": "pending"
+  },
+  {
+    "_id": "65f1a2b3c4d5e6f7a8b90126",
+    "product": "65f1a2b3c4d5e6f7a8b90003",
+    "buyer_image": "https://api.dicebear.com/7.x/avataaars/svg?seed=Marcus",
+    "buyer_name": "Marcus Thorne",
+    "buyer_contact": "+1-555-0104",
+    "buyer_email": "m.thorne@webmail.com",
+    "bid_price": 85.25,
+    "status": "pending"
+  },
+  {
+    "_id": "65f1a2b3c4d5e6f7a8b90127",
+    "product": "65f1a2b3c4d5e6f7a8b90002",
+    "buyer_image": "https://api.dicebear.com/7.x/avataaars/svg?seed=Elena",
+    "buyer_name": "Elena Rodriguez",
+    "buyer_contact": "+1-555-0105",
+    "buyer_email": "elena.rod@service.com",
+    "bid_price": 1350.00,
+    "status": "confirmed"
+  },
+  {
+    "_id": "65f1a2b3c4d5e6f7a8b90128",
+    "product": "65f1a2b3c4d5e6f7a8b90004",
+    "buyer_image": "https://api.dicebear.com/7.x/avataaars/svg?seed=Sam",
+    "buyer_name": "Samuel Oak",
+    "buyer_contact": "+1-555-0106",
+    "buyer_email": "soak@nature.org",
+    "bid_price": 310.00,
+    "status": "pending"
+  },
+  {
+    "_id": "65f1a2b3c4d5e6f7a8b90129",
+    "product": "65f1a2b3c4d5e6f7a8b90005",
+    "buyer_image": "https://api.dicebear.com/7.x/avataaars/svg?seed=Priya",
+    "buyer_name": "Priya Kapoor",
+    "buyer_contact": "+1-555-0107",
+    "buyer_email": "p.kapoor@global.com",
+    "bid_price": 2100.00,
+    "status": "pending"
+  },
+  {
+    "_id": "65f1a2b3c4d5e6f7a8b90130",
+    "product": "65f1a2b3c4d5e6f7a8b90004",
+    "buyer_image": "https://api.dicebear.com/7.x/avataaars/svg?seed=Taylor",
+    "buyer_name": "Taylor Vance",
+    "buyer_contact": "+1-555-0108",
+    "buyer_email": "tvance@freemail.com",
+    "bid_price": 295.00,
+    "status": "pending"
+  },
+  {
+    "_id": "65f1a2b3c4d5e6f7a8b90131",
+    "product": "65f1a2b3c4d5e6f7a8b90006",
+    "buyer_image": "https://api.dicebear.com/7.x/avataaars/svg?seed=Riley",
+    "buyer_name": "Riley Quinn",
+    "buyer_contact": "+1-555-0109",
+    "buyer_email": "rquinn@studios.io",
+    "bid_price": 55.00,
+    "status": "confirmed"
+  },
+  {
+    "_id": "65f1a2b3c4d5e6f7a8b90132",
+    "product": "65f1a2b3c4d5e6f7a8b90007",
+    "buyer_image": "https://api.dicebear.com/7.x/avataaars/svg?seed=Casey",
+    "buyer_name": "Casey Morgan",
+    "buyer_contact": "+1-555-0110",
+    "buyer_email": "cmorgan@logistics.net",
+    "bid_price": 920.00,
+    "status": "pending"
+  }
+]
